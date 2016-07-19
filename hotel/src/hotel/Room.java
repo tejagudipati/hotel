@@ -21,6 +21,7 @@ public Room(String name, double price, int quantity, boolean availability) {
 
 public void display(){
 	System.out.println("Hotel Name: "+name);
+	System.out.println("Hotel price: "+1000);
 	
 	
 	
