@@ -6,5 +6,5 @@ public class room {
 		// TODO Auto-generated method stub
 
 	}
-system.out.println('welecome');
 }
+
